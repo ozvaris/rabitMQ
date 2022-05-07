@@ -2,7 +2,7 @@
 using System.Text;
 using RabbitMQ.Client;
 
-namespace RabbitMQFanoutPublisher
+namespace FanoutPublisher
 {
     class Program
     {
